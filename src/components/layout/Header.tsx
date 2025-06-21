@@ -1,4 +1,4 @@
-import { ChefHatIcon, HeartIcon } from 'lucide-react'
+import { ChefHatIcon } from 'lucide-react'
 import React from 'react'
 import FavoriteButton from './buttons/favorite-button'
 
